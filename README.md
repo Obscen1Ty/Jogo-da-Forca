@@ -9,9 +9,9 @@ O objetivo do jogo é adivinhar a palavra secreta letra por letra antes de compl
 
 1. Execute o arquivo `forca.py` com Python 3:
 
- ```` ```bash ````
-   `python forca.py`
-   ```` ``` ````
+  ```bash
+   python forca.py
+   ```
 
 
 Digite uma letra por vez quando solicitado.
